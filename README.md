@@ -1,8 +1,6 @@
-- 👋 Hi, I’m Tuesday Benedict
-- 👀 I’m interested in writing programs
-- 🌱 I’m currently learning Dart & flutter
-- 💞️ I’m looking to collaborate on github
-- 📫 You can reach me via email - proftb5star@gmail.com and phone - +1249139115121
+👋 Hey, I'm Tuesday Benedict! 
+Passionate about programming, currently diving into Dart & Flutter. Eager to collaborate on GitHub projects. 
+📫 Reach out at proftb5star@gmail.com. Let's code and create together!
 
 
 <!---
