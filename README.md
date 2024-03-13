@@ -1,5 +1,5 @@
 👋 Hey, I'm Tuesday Benedict! 
-Passionate about programming, currently diving into Dart & Flutter. Eager to collaborate on GitHub projects. 
+Passionate about programming, currently into Web, Dart & Flutter. Eager to collaborate on GitHub projects. 
 📫 Reach out at proftb5star@gmail.com. Let's code and create together!
 
 
