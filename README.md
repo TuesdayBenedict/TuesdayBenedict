@@ -46,16 +46,16 @@ Improving daily through coding, reading documentation, and community engagement.
 
 ## 📊 GitHub Stats
 
-![Tuesday's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![Tuesday's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuesdayBenedict&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TuesdayBenedict&theme=tokyonight)
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_URL)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tuesday-benedict-1a262425a)
+<!-- [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_URL)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL) -->
 
 ---
 
