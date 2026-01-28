@@ -47,7 +47,7 @@ Improving daily through coding, reading documentation, and community engagement.
 ## 📊 GitHub Stats
 
 ![Tuesday's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuesdayBenedict&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=TuesdayBenedict&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=TuesdayBenedict&theme=tokyonight)
 
 ---
 
