@@ -27,7 +27,7 @@ I enjoy turning ideas into real-world apps and continuously improving my craft t
 
 ### ⚙️ Workflow & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
@@ -47,7 +47,7 @@ Improving daily through coding, reading documentation, and community engagement.
 ## 📊 GitHub Stats
 
 ![Tuesday's GitHub stats](https://github-readme-stats.vercel.app/api?username=TuesdayBenedict&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=TuesdayBenedict&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=TuesdayBenedict&theme=tokyonight&cache_seconds=86400)
 
 ---
 
