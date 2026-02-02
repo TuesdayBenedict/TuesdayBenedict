@@ -49,11 +49,12 @@ Improving daily through coding, reading documentation, and community engagement.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=TuesdayBenedict&show_icons=true&theme=tokyonight)
 ![Github Streaks](https://streak-stats.demolab.com/?user=TuesdayBenedict&theme=tokyonight)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TuesdayBenedict=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tuesday-benedict-1a262425a)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/tuesday-benedict-1a262425a/)
 <!-- [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](YOUR_TWITTER_URL)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](YOUR_MEDIUM_URL) -->
 
